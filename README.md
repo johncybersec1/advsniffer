@@ -15,7 +15,7 @@ The book Blackhat Python has greatly influenced the development of this packet s
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/packet-sniffer.git
+   git clone https://github.com/johncybersec1/packet-sniffer.git
 
 2. Navigate to the project directory
 
